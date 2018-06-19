@@ -1,7 +1,7 @@
 ## Popular-Movie-Stage-1-and-Sandwich-Club-
 project repository for Udacity Grow With Google Android Development Scholarship
 # Popular Movie Stage 1
- depreciated popular movie app stopped working 
+ depreciated popular movie app stopped working on it in order to learn Android Architecture Components 
  rebuilding and continuing development of application using Android Architecture components
 * https://github.com/davidcalle3141/PopularMovies_Android_Architecture_Components
 # Sandwich Club
